@@ -1,4 +1,4 @@
-package codinginterview.easy;
+package codinginterview;
 
 import java.util.HashMap;
 

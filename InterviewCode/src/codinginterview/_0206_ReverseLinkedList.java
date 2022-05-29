@@ -1,4 +1,4 @@
-package codinginterview.easy;
+package codinginterview;
 
 public class _0206_ReverseLinkedList {
 
